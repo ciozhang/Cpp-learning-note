@@ -1,1 +1,1 @@
-# C++-learning-note
+# C++ learning note
